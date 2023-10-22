@@ -2,7 +2,7 @@
 body
 {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(244, 232, 218);
+    background-color: rgb(255, 255, 255);
     color:rgb(76, 45, 105);
 }
 
@@ -47,13 +47,11 @@ p {
     position: relative;
     top: 10px;
     left: 50px;
-    /* border: 1px solid #000000; */
 }
 .img3 {
     position: absolute;
     top: 30px;
     left: 30px;
-    /* border: 1px solid #000000; */
 }
 .bottomright {
     margin: 100px;
@@ -72,4 +70,6 @@ button{
 }
 .button:hover {
     background-color: #ffffff;
+    color: #A38FBF;
+    border: 1px solid #A38FBF;
 }
